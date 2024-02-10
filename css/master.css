@@ -46,6 +46,7 @@ color: rgb(0, 0, 128);
 margin-bottom: 70px;
 }
 .image{
+    background-color: rgb(212, 235, 242);
 border: 20px solid rgb(0, 0, 128); 
 border-radius: 50%;
 padding: 10px 0  ;
@@ -54,7 +55,7 @@ width: 450px;
 height: 400px;
 position: relative;
 left: 29%;
-box-shadow: inset 0px 0px 15px 2px rgb(91, 168, 203);
+box-shadow: inset 0px 0px 15px 2px rgb(84, 180, 225);
 display: flex;
 justify-content: center;
 }
