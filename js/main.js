@@ -1,6 +1,5 @@
 let sp =  document.getElementById("m") ;
 
-    
 function fun_off(){
     sp.style.animationDuration=  0 +"s";    
 }
